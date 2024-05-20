@@ -1,0 +1,52 @@
+[
+ 
+    {
+        "id" :1,
+        "productName" : "Baratheon Venison",
+        "produrl": "1",
+        "price": 89,
+        "desc": "Venison steak and mashed potatoes",
+        "prodimg": "/assets/baratheon-venison.jpeg"
+    },
+    {
+        "id":2,
+        "productName": "Lord Tywin's Flan",
+        "produrl": "2",
+        "price": 91,
+        "desc": "Condensed milk pudding with caramel",
+        "prodimg": "/assets/golden-flan.jpeg"
+    },
+    {
+        "id" :3,
+        "productName": "The Queen Pie",
+        "produrl": "3",
+        "price": 89,
+        "desc": "Our special beef pot pie",
+        "prodimg": "/assets/pot-pie.jpg"
+    },
+    {
+        "id":4,
+        "productName": "Winterfell style Icicle",
+        "produrl": "4",
+        "price": 71,
+        "desc": "Vanilla ice cream with chocolate chunks",
+        "prodimg": "/assets/winterfell2.jpg"
+    },
+    {
+        "id":5,
+        "productName": "Tully Trout",
+        "produrl": "5",
+        "price": 78,
+        "desc": "Fish (trout) and fried potato chips",
+        "prodimg": "/assets/tully-fish.jpg"
+    },
+    {
+        "id":6,
+        "productName": "Arbor Gold",
+        "produrl": "6",
+        "price": 119,
+        "desc": "Golden sweet wine from Lord Redwyne",
+        "prodimg": "/assets/arbor-gold.jpg"
+    }
+    
+]
