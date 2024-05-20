@@ -5,5 +5,3 @@ Instalar as dependencias com:
 ## Passo 2
 Rodar no terminal:
 ``` pnpm dev ```
-ou
-``` npm run dev ```
